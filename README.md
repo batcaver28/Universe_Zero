@@ -66,7 +66,7 @@ This approach avoids expensive \( O(N^2) \) pairwise calculations and is well-su
 
 ## 📸 Example Visualization
 
-![preview gif](simulation1.gif)
+![preview gif](simulacion1.gif)
 
 ---
 
